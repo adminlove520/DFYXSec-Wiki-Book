@@ -15,10 +15,10 @@ module.exports = {
             platform: 'github',
 
             // 其他的 Vssue 配置
-            owner: 'PeiQi0',
-            repo: 'Wiki-Book-Talk',
-            clientId: '0df327771daf7fce68df',
-            clientSecret: '8cba9a84153c8b0cf30926244624665f987f8148',
+            owner: 'adminlove520',
+            repo: 'DFYXSec-Wiki-Book',
+            clientId: '16a5ba67f17453fb95c5',
+            clientSecret: 'ab8c9958375f69f29c1568f5700432b301a921fc',
             autoCreateIssue: true,
         },
         'one-click-copy': {},

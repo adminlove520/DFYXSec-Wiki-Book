@@ -18,6 +18,7 @@ module.exports = {
     '/redteam/defensetoevade/': require('../../redteam/defensetoevade/sidebar_contents'),
     '/redteam/codeaudit/': require('../../redteam/codeaudit/sidebar_contents'),
     '/redteam/blueteam/': require('../../redteam/blueteam/sidebar_contents'),
+    '/redteam/HW/': require('../../redteam/blueteam/sidebar_contents'),
     '/ctf/blockchain': require('../../ctf/blockchain/sidebar_contents'),
     '/ctf/misc': require('../../ctf/misc/sidebar_contents'),
     '/ctf/crypto': require('../../ctf/crypto/sidebar_contents'),
@@ -25,5 +26,4 @@ module.exports = {
     '/ctf/web': require('../../ctf/web/sidebar_contents'),
     '/ctf/reverse': require('../../ctf/reverse/sidebar_contents'),
     '/cooperation/': require('../../cooperation/sidebar_contents'),
-  };
-  
+};

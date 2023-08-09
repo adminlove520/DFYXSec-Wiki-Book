@@ -125,6 +125,10 @@ module.exports = [{
                 text: "蓝队防守",
                 link: "/redteam/blueteam/",
             },
+            {
+                text: "蓝队防守",
+                link: "/redteam/HW/",
+            },
         ],
     },
     {
