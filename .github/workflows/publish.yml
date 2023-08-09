@@ -37,6 +37,6 @@ jobs:
       with:
         publish_dir: ./docs/.vuepress/dist
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        user_name: 'WgpSec Continuous Integration' 
-        user_email: 'ci@wgpsec.org'  
-        cname: peiqi.wgpsec.org
+        user_name: 'adminlove520' 
+        user_email: '791751568@qq.com'  
+        cname: wiki.dfyxsec.love:8080
