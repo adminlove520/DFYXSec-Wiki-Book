@@ -33,7 +33,7 @@ module.exports = {
         sidebarDepth: 0,
         lastUpdated: '上次更新',
         logo: '/img/home.svg',
-        repo: 'https://github.com/adminlove520/WIKI-Book',
+        repo: 'https://github.com/adminlove520/DFYXSec-Wiki-Book',
         editLinks: true,
         ads: {
             style: 3,
